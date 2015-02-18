@@ -10,9 +10,9 @@ Maintainers And Questions
 
 This repository was made by,
 
-Cassiel Williams (Twitter: @KingCassiel, Email: cassiel@glennwilliams.ca), 
+Cassiel Williams (Twitter: https://twitter.com/kingcassiel, Email: cassiel@glennwilliams.ca), 
 
-Kai Aldag (Twitter: @KaiCode2, Email: trainerkai@yahoo.com) and
+Kai Aldag (Twitter: https://twitter.com/kaicode2, Email: trainerkai@yahoo.com) and
 
 Richard Le (Email: richardle1997@gmail.com). 
 
